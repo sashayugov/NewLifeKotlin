@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NewLifeKotlin</string>
+    <string name="now_playing"><b>Now Playing</b></string>
+    <string name="upcoming"><b>Upcoming</b></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_button">Search </string>
+    <string name="switch_adult_content">Adult</string>
+    <string name="movie_title">Movie title</string>
+    <string name="switch_kids">Kids</string>
+    <string name="save_note">save note</string>
+    <string name="home">Home</string>
+    <string name="favourite">Favourite</string>
+    <string name="note">Note</string>
+    <string name="delete_note">delete note</string>
+    <string name="update_note">update note</string>
+    <string name="cinemas">Cinemas</string>
+</resources>

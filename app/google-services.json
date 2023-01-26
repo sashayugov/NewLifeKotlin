@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1052889504433",
+    "project_id": "newlifekotlin",
+    "storage_bucket": "newlifekotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052889504433:android:6af14a3567bbc37abde090",
+        "android_client_info": {
+          "package_name": "com.example.newlifekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052889504433-eibbf7cuvsj2dp58n10tmj3s2cv6m6pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_JpTI57HT_oc7UpTATeHHocSMXeYB8Y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052889504433-eibbf7cuvsj2dp58n10tmj3s2cv6m6pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
